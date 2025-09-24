@@ -3,8 +3,7 @@ export const data = {
   "title": "Ethereal Testnet",
   "chain": "Ethereal",
   "rpc": [
-    "https://rpc.etherealtest.net",
-    "https://rpc-ethereal-testnet-0.t.conduit.xyz"
+    "https://rpc.ethereal.trade"
   ],
   "icon": "etherealtestnet",
   "faucets": [],
@@ -13,14 +12,14 @@ export const data = {
     "symbol": "USDe",
     "decimals": 18
   },
-  "infoURL": "https://www.ethereal.trade/",
-  "shortName": "ethereal-testnet-0",
-  "chainId": 13374202,
-  "networkId": 13374202,
+  "infoURL": "https://www.ethereal.trade",
+  "shortName": "ethereal-testnet-1",
+  "chainId": 5064014,
+  "networkId": 5064014,
   "explorers": [
     {
       "name": "blockscout",
-      "url": "https://explorer.etherealtest.net",
+      "url": "https://explorer.ethereal.trade",
       "icon": "blockscout",
       "standard": "EIP3091"
     }
